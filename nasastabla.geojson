@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417967,
+          44.819446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Black",
+          "iconClass": "Circle"
+        },
+        "name": "1",
+        "description": "ovo je\nprvi test marker"
+      },
+      "id": "1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418344,
+          44.819542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Black",
+          "iconClass": "Circle"
+        },
+        "name": "2",
+        "description": "ovo je\ndrugi test marker"
+      },
+      "id": "2"
+    }
+  ]
+}
