@@ -19,6 +19,25 @@
         "description": "ovo je\ndrugi test marker"
       },
       "id": "2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418029,
+          44.819674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Black",
+          "iconClass": "Circle"
+        },
+        "name": "3",
+        "description": "ovo je\ntreci test marker"
+      },
+      "id": 3
     }
   ]
 }
