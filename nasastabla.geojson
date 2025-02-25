@@ -15,7 +15,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 1
+        "name": 1,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Wed Jul 31 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 1
     },
@@ -33,7 +34,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 2
+        "name": 2,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 2
     },
@@ -51,7 +53,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 3
+        "name": 3,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 3
     },
@@ -69,7 +72,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 4
+        "name": 4,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 4
     },
@@ -87,7 +91,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 5
+        "name": 5,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 5
     },
@@ -105,7 +110,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 6
+        "name": 6,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 6
     },
@@ -123,7 +129,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 7
+        "name": 7,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 7
     },
@@ -141,7 +148,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 8
+        "name": 8,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 8
     },
@@ -159,7 +167,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 9
+        "name": 9,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Wed Jul 31 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 9
     },
@@ -177,7 +186,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 10
+        "name": 10,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 10
     },
@@ -195,7 +205,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 11
+        "name": 11,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 11
     },
@@ -213,7 +224,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 12
+        "name": 12,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Javor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 12
     },
@@ -231,7 +243,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 13
+        "name": 13,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 13
     },
@@ -249,7 +262,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 14
+        "name": 14,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Orah\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 14
     },
@@ -267,7 +281,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 15
+        "name": 15,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Javor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 15
     },
@@ -285,7 +300,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 16
+        "name": 16,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Kesten\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Sat Aug 31 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 16
     },
@@ -303,7 +319,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 17
+        "name": 17,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Orah\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 17
     },
@@ -321,7 +338,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 18
+        "name": 18,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Tue Sep 03 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 18
     },
@@ -339,7 +357,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 19
+        "name": 19,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Tue Sep 03 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 19
     },
@@ -357,7 +376,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 20
+        "name": 20,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Tue Sep 03 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 20
     },
@@ -375,7 +395,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 21
+        "name": 21,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Tue Sep 03 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 21
     },
@@ -393,7 +414,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 22
+        "name": 22,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Tue Sep 03 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 22
     },
@@ -411,7 +433,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 23
+        "name": 23,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 23
     },
@@ -429,7 +452,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 24
+        "name": 24,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 24
     },
@@ -447,7 +471,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 25
+        "name": 25,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 25
     },
@@ -465,7 +490,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 26
+        "name": 26,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 26
     },
@@ -483,7 +509,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 27
+        "name": 27,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 27
     },
@@ -501,7 +528,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 28
+        "name": 28,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 28
     },
@@ -519,7 +547,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 29
+        "name": 29,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 29
     },
@@ -537,7 +566,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 30
+        "name": 30,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 30
     },
@@ -555,7 +585,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 31
+        "name": 31,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 31
     },
@@ -573,7 +604,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 32
+        "name": 32,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 32
     },
@@ -591,7 +623,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 33
+        "name": 33,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 33
     },
@@ -609,7 +642,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 34
+        "name": 34,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 34
     },
@@ -627,7 +661,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 35
+        "name": 35,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 35
     },
@@ -645,7 +680,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 36
+        "name": 36,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 36
     },
@@ -663,7 +699,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 37
+        "name": 37,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 37
     },
@@ -681,7 +718,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 38
+        "name": 38,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 38
     },
@@ -699,7 +737,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 39
+        "name": 39,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 39
     },
@@ -717,7 +756,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 40
+        "name": 40,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 40
     },
@@ -735,7 +775,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 41
+        "name": 41,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 41
     },
@@ -753,7 +794,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 42
+        "name": 42,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 42
     },
@@ -771,7 +813,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 43
+        "name": 43,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 43
     },
@@ -789,7 +832,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 44
+        "name": 44,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 44
     },
@@ -807,7 +851,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 45
+        "name": 45,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Sun Jul 14 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 45
     },
@@ -825,7 +870,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 46
+        "name": 46,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 46
     },
@@ -843,7 +889,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 47
+        "name": 47,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Sun Jul 14 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 47
     },
@@ -861,7 +908,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 48
+        "name": 48,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 48
     },
@@ -879,7 +927,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 49
+        "name": 49,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 49
     },
@@ -897,7 +946,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 50
+        "name": 50,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 50
     },
@@ -915,7 +965,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 51
+        "name": 51,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 51
     },
@@ -933,7 +984,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 52
+        "name": 52,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 52
     },
@@ -951,7 +1003,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 53
+        "name": 53,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 53
     },
@@ -969,7 +1022,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 54
+        "name": 54,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 54
     },
@@ -987,7 +1041,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 55
+        "name": 55,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 55
     },
@@ -1005,7 +1060,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 56
+        "name": 56,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri Aug 16 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 56
     },
@@ -1023,7 +1079,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 57
+        "name": 57,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Mon Jul 22 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 57
     },
@@ -1041,7 +1098,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 58
+        "name": 58,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Lipa\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 58
     },
@@ -1059,7 +1117,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 59
+        "name": 59,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 59
     },
@@ -1077,7 +1136,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 60
+        "name": 60,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 60
     },
@@ -1095,7 +1155,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 61
+        "name": 61,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 61
     },
@@ -1113,7 +1174,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 62
+        "name": 62,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 62
     },
@@ -1131,7 +1193,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 63
+        "name": 63,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 63
     },
@@ -1149,7 +1212,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 64
+        "name": 64,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 64
     },
@@ -1167,7 +1231,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 65
+        "name": 65,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 65
     },
@@ -1185,7 +1250,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 66
+        "name": 66,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 66
     },
@@ -1203,7 +1269,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 67
+        "name": 67,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 67
     },
@@ -1221,7 +1288,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 68
+        "name": 68,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 68
     },
@@ -1239,7 +1307,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 69
+        "name": 69,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 69
     },
@@ -1257,7 +1326,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 70
+        "name": 70,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 70
     },
@@ -1275,7 +1345,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 71
+        "name": 71,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 71
     },
@@ -1293,7 +1364,8 @@
           "color": "#C0C0C0",
           "iconClass": "Circle"
         },
-        "name": 72
+        "name": 72,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 72
     },
@@ -1311,7 +1383,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 73
+        "name": 73,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 73
     },
@@ -1329,7 +1402,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 74
+        "name": 74,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Mon Jun 10 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 74
     },
@@ -1347,7 +1421,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 75
+        "name": 75,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 75
     },
@@ -1365,7 +1440,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 76
+        "name": 76,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 76
     },
@@ -1383,7 +1459,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 77
+        "name": 77,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Orah\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 77
     },
@@ -1401,7 +1478,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 78
+        "name": 78,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 78
     },
@@ -1419,7 +1497,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 79
+        "name": 79,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 79
     },
@@ -1437,7 +1516,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 80
+        "name": 80,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 80
     },
@@ -1455,7 +1535,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 81
+        "name": 81,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 81
     },
@@ -1473,7 +1554,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 82
+        "name": 82,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 82
     },
@@ -1491,7 +1573,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 83
+        "name": 83,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 83
     },
@@ -1509,7 +1592,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 84
+        "name": 84,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 84
     },
@@ -1527,7 +1611,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 85
+        "name": 85,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 85
     },
@@ -1545,7 +1630,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 86
+        "name": 86,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 86
     },
@@ -1563,7 +1649,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 87
+        "name": 87,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 87
     },
@@ -1581,7 +1668,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 88
+        "name": 88,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 88
     },
@@ -1599,7 +1687,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 89
+        "name": 89,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 89
     },
@@ -1617,7 +1706,8 @@
           "color": "#A9A9A9",
           "iconClass": "Circle"
         },
-        "name": 90
+        "name": 90,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Suvo\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 90
     },
@@ -1635,7 +1725,8 @@
           "color": "#696969",
           "iconClass": "Circle"
         },
-        "name": 91
+        "name": 91,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: Osu?eno\n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 91
     },
@@ -1653,7 +1744,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 92
+        "name": 92,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 92
     },
@@ -1671,7 +1763,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 93
+        "name": 93,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 93
     },
@@ -1689,7 +1782,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 94
+        "name": 94,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crvenolisna sljiva\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 94
     },
@@ -1707,7 +1801,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 95
+        "name": 95,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 95
     },
@@ -1725,7 +1820,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 96
+        "name": 96,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 96
     },
@@ -1743,7 +1839,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 97
+        "name": 97,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Fri May 24 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 97
     },
@@ -1761,7 +1858,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 98
+        "name": 98,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Sat Jul 20 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 98
     },
@@ -1779,7 +1877,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 99
+        "name": 99,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Invalid Date\n - Datum a?uriranja osnovnih informacija: Sat Jul 20 2024 00:00:00 GMT+0200 (Central European Summer Time)"
       },
       "id": 99
     },
@@ -1797,7 +1896,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 101
+        "name": 101,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 101
     },
@@ -1815,7 +1915,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 102
+        "name": 102,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 102
     },
@@ -1833,7 +1934,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 103
+        "name": 103,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 103
     },
@@ -1851,7 +1953,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 104
+        "name": 104,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 104
     },
@@ -1869,7 +1972,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 105
+        "name": 105,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 105
     },
@@ -1887,7 +1991,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 106
+        "name": 106,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Platan\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 106
     },
@@ -1905,7 +2010,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 107
+        "name": 107,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 107
     },
@@ -1923,7 +2029,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 108
+        "name": 108,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 108
     },
@@ -1941,7 +2048,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 109
+        "name": 109,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 109
     },
@@ -1959,7 +2067,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 110
+        "name": 110,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crni bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 110
     },
@@ -1977,7 +2086,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 111
+        "name": 111,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 111
     },
@@ -1995,7 +2105,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 112
+        "name": 112,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 112
     },
@@ -2013,7 +2124,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 113
+        "name": 113,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Platan\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 113
     },
@@ -2031,7 +2143,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 114
+        "name": 114,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Platan\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 114
     },
@@ -2049,7 +2162,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 115
+        "name": 115,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 115
     },
@@ -2067,7 +2181,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 116
+        "name": 116,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 116
     },
@@ -2085,7 +2200,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 117
+        "name": 117,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 117
     },
@@ -2103,7 +2219,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 118
+        "name": 118,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 118
     },
@@ -2121,7 +2238,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 119
+        "name": 119,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 119
     },
@@ -2139,7 +2257,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 120
+        "name": 120,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 120
     },
@@ -2157,7 +2276,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 121
+        "name": 121,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 121
     },
@@ -2175,7 +2295,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 122
+        "name": 122,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 122
     },
@@ -2193,7 +2314,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 123
+        "name": 123,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 123
     },
@@ -2211,7 +2333,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 124
+        "name": 124,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 124
     },
@@ -2229,7 +2352,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 125
+        "name": 125,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Bor\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 125
     },
@@ -2247,7 +2371,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 126
+        "name": 126,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 126
     },
@@ -2265,7 +2390,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 127
+        "name": 127,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 127
     },
@@ -2283,7 +2409,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 128
+        "name": 128,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 128
     },
@@ -2301,7 +2428,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 129
+        "name": 129,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 129
     },
@@ -2319,7 +2447,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 130
+        "name": 130,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 130
     },
@@ -2337,7 +2466,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 131
+        "name": 131,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 131
     },
@@ -2355,7 +2485,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 132
+        "name": 132,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 132
     },
@@ -2373,7 +2504,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 133
+        "name": 133,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 133
     },
@@ -2391,7 +2523,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 134
+        "name": 134,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 134
     },
@@ -2409,7 +2542,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 135
+        "name": 135,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 135
     },
@@ -2427,7 +2561,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 136
+        "name": 136,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 136
     },
@@ -2445,7 +2580,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 137
+        "name": 137,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 137
     },
@@ -2463,7 +2599,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 138
+        "name": 138,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 138
     },
@@ -2481,7 +2618,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 139
+        "name": 139,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 139
     },
@@ -2499,7 +2637,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 140
+        "name": 140,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 140
     },
@@ -2517,7 +2656,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 141
+        "name": 141,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 141
     },
@@ -2535,7 +2675,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 142
+        "name": 142,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 142
     },
@@ -2553,7 +2694,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 143
+        "name": 143,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 143
     },
@@ -2571,7 +2713,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 144
+        "name": 144,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 144
     },
@@ -2589,7 +2732,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 145
+        "name": 145,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 145
     },
@@ -2607,7 +2751,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 146
+        "name": 146,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 146
     },
@@ -2625,7 +2770,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 147
+        "name": 147,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 147
     },
@@ -2643,7 +2789,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 148
+        "name": 148,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 148
     },
@@ -2661,7 +2808,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 149
+        "name": 149,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 149
     },
@@ -2679,7 +2827,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 150
+        "name": 150,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 150
     },
@@ -2697,7 +2846,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 151
+        "name": 151,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Breza\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 151
     },
@@ -2715,7 +2865,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 152
+        "name": 152,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Breza\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 152
     },
@@ -2733,7 +2884,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 153
+        "name": 153,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Breza\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 153
     },
@@ -2751,7 +2903,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 154
+        "name": 154,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Evropska tisa\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 154
     },
@@ -2787,7 +2940,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 155
+        "name": 155,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 155
     },
@@ -2823,7 +2977,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 156
+        "name": 156,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 156
     },
@@ -2841,7 +2996,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 157
+        "name": 157,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 157
     },
@@ -2859,7 +3015,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 158
+        "name": 158,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 158
     },
@@ -2877,7 +3034,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 159
+        "name": 159,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 159
     },
@@ -2895,7 +3053,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 160
+        "name": 160,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 160
     },
@@ -2913,7 +3072,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 161
+        "name": 161,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 161
     },
@@ -2931,7 +3091,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 162
+        "name": 162,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 162
     },
@@ -2949,7 +3110,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 163
+        "name": 163,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Jasen\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 163
     },
@@ -2967,7 +3129,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 164
+        "name": 164,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Crveni hrast\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 164
     },
@@ -2985,7 +3148,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 165
+        "name": 165,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 165
     },
@@ -3003,7 +3167,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 166
+        "name": 166,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 166
     },
@@ -3039,7 +3204,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 167
+        "name": 167,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 167
     },
@@ -3057,7 +3223,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 168
+        "name": 168,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Evropska tisa\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 168
     },
@@ -3093,7 +3260,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 169
+        "name": 169,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 169
     },
@@ -3111,7 +3279,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 170
+        "name": 170,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 170
     },
@@ -3129,7 +3298,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 181
+        "name": 181,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 181
     },
@@ -3147,7 +3317,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 182
+        "name": 182,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 182
     },
@@ -3165,7 +3336,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 183
+        "name": 183,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 183
     },
@@ -3183,7 +3355,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 184
+        "name": 184,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 184
     },
@@ -3201,7 +3374,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 185
+        "name": 185,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 185
     },
@@ -3219,7 +3393,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 186
+        "name": 186,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 186
     },
@@ -3237,7 +3412,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 187
+        "name": 187,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 187
     },
@@ -3255,7 +3431,8 @@
           "color": "ForestGreen",
           "iconClass": "Circle"
         },
-        "name": 188
+        "name": 188,
+        "description": "Akcija zalivanja:\n - Vreme poslednje evidentiranog zalivanja ili ki?e: \n - Broj prijavljenih osoba za zalivanje ovog stabla: \n - Broj evidentiranih zalivanja u proteklih 7 dana: \n - Ukupan broj evidentiranih zalivanja: \n\nOsnovne informacije o stablu:\n - Vrsta: \n - Stanje: \n - Debljina: \n - Visina: \n - Najbli?a adresa: \n - Datum sadjenja: Sat Nov 30 2024 00:00:00 GMT+0100 (Central European Standard Time)\n - Datum a?uriranja osnovnih informacija: Invalid Date"
       },
       "id": 188
     }
