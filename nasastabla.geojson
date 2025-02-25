@@ -1,4 +1,3263 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174548,
+          44.8195164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 1
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173871,
+          44.8195396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 2
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173335,
+          44.8195636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 3
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172779,
+          44.819586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 4
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172222,
+          44.8196126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 5
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.41717,
+          44.8196387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 6
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171602,
+          44.8196783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 7
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172948,
+          44.8199147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 8
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172945,
+          44.8198435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 9
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173343,
+          44.8199648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 10
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417387,
+          44.8200285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 11
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173612,
+          44.8217257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 12
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172284,
+          44.821758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 13
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417325,
+          44.8216834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 14
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173261,
+          44.8214797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 15
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4179876,
+          44.8217189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 16
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172637,
+          44.8214199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 17
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4154734,
+          44.8192251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 18
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4155308,
+          44.8192022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 19
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4155992,
+          44.8191727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 20
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4156643,
+          44.8191404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 21
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4157306,
+          44.8191042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 22
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4154245,
+          44.8194898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 23
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4221601,
+          44.8180547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 24
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4222145,
+          44.8181204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 25
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4221159,
+          44.8181175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 26
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421122,
+          44.8181518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 27
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4205181,
+          44.817856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 28
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4209598,
+          44.8181479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 29
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4209705,
+          44.818206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 30
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4209477,
+          44.8183525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 31
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4209839,
+          44.8184229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 32
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4209397,
+          44.8184894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 33
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4210832,
+          44.8185085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 34
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4192559,
+          44.8189682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 35
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4191801,
+          44.8189672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 36
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4191781,
+          44.819031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 37
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419105,
+          44.8190091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 38
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4191754,
+          44.8189073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 39
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419113,
+          44.8189007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 40
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4190641,
+          44.8189435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 41
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4189991,
+          44.818952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 42
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419376,
+          44.8190995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 43
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419425,
+          44.8191566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 44
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194739,
+          44.8192137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 45
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4195202,
+          44.8192717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 46
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193438,
+          44.8191613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 47
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193914,
+          44.8192241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 48
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194256,
+          44.819266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 49
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194129,
+          44.8193098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 50
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194645,
+          44.8193259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 51
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193294,
+          44.8193871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 52
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419373,
+          44.8193652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 53
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194126,
+          44.8193462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 54
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188605,
+          44.8196616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 55
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188934,
+          44.8196968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 56
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4180237,
+          44.8199556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 57
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178245,
+          44.8200498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 58
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4175436,
+          44.8202643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 59
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174731,
+          44.8203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 60
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174679,
+          44.8203338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 61
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4154573,
+          44.8194537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 62
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4156766,
+          44.8193739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 63
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171977,
+          44.8185319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 64
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172554,
+          44.818502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 65
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173418,
+          44.8185052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 66
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173704,
+          44.818537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 67
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174069,
+          44.8185565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 68
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4169989,
+          44.8197668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 69
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4170471,
+          44.8197331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 70
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171001,
+          44.8197302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 71
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4170303,
+          44.8198099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#C0C0C0",
+          "iconClass": "Circle"
+        },
+        "name": 72
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4170685,
+          44.8198522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 73
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417084,
+          44.8197719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 74
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171216,
+          44.8198693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 75
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171618,
+          44.819828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 76
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4181098,
+          44.8216467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 77
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4196289,
+          44.8209912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 78
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4197368,
+          44.8209465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 79
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4198693,
+          44.8208714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 80
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.420213,
+          44.8207223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 81
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.420321,
+          44.8206775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 82
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4204571,
+          44.8206157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 83
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4205382,
+          44.82059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 84
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4206471,
+          44.8205374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 85
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4206947,
+          44.8205136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 86
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4207785,
+          44.8204746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 87
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4208328,
+          44.8204508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 88
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4210067,
+          44.8203819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 89
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4210718,
+          44.8203553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": 90
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4219995,
+          44.8188002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#696969",
+          "iconClass": "Circle"
+        },
+        "name": 91
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4198254,
+          44.8199454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 92
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4196307,
+          44.8202234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 93
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187029,
+          44.8203257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 94
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4185762,
+          44.8203828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 95
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418487,
+          44.8203838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 96
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4184139,
+          44.8204256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 97
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4190063,
+          44.8186612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 98
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4184851,
+          44.8188516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 99
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4196676,
+          44.8206077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 101
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4195047,
+          44.8205792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 102
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194698,
+          44.8205932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 103
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178209,
+          44.8200508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 104
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178327,
+          44.8198691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 105
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4168684,
+          44.8195711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 106
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4169945,
+          44.8195944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 107
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171075,
+          44.8195604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 108
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177616,
+          44.8198655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 109
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177203,
+          44.8198229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 110
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172932,
+          44.8197989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 111
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171638,
+          44.8197575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 112
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4168054,
+          44.819583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 113
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4169747,
+          44.8195989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 114
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417136,
+          44.819578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 115
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4171591,
+          44.8196408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 116
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177254,
+          44.820086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 117
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177918,
+          44.8200574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 118
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177757,
+          44.8197709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 119
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4179919,
+          44.8199535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 120
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178062,
+          44.8199942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 121
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177478,
+          44.8200182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 122
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4176858,
+          44.819963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 123
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177203,
+          44.8199188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 124
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177549,
+          44.8199064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 125
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418058,
+          44.81992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 126
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4181284,
+          44.8198933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 127
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418245,
+          44.8198527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 128
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418349,
+          44.8197996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 129
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4184077,
+          44.8197723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 130
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4184657,
+          44.8197404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 131
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4185786,
+          44.8196936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 132
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4186313,
+          44.8196703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 133
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4186554,
+          44.819583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 134
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187248,
+          44.8196301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 135
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187221,
+          44.8195599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 136
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187986,
+          44.8195894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 137
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187718,
+          44.8195311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 138
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188512,
+          44.8195571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 139
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188459,
+          44.8194703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 140
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4189424,
+          44.8195302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 141
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4189441,
+          44.8194624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 142
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4191111,
+          44.8193953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 143
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4191855,
+          44.8194222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 144
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4191929,
+          44.8193668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 145
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4192727,
+          44.8193782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 146
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419271,
+          44.8193397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 147
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193263,
+          44.819362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 148
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193558,
+          44.8193502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 149
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417496,
+          44.8202964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 150
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172727,
+          44.8196351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 151
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172171,
+          44.8216927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 152
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172915,
+          44.821672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 153
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174981,
+          44.8201875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 154
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174981,
+          44.8201875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 154
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4175125,
+          44.8201585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 155
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4175125,
+          44.8201585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 155
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173572,
+          44.8200543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 156
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174907,
+          44.8201371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 157
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174166,
+          44.8201345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 158
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174675,
+          44.8201033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 159
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173921,
+          44.8201045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 160
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174441,
+          44.8200734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 161
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173549,
+          44.8200715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 162
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173039,
+          44.8200077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 163
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4172805,
+          44.8199597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 164
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174082,
+          44.8199595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 165
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4176127,
+          44.8199616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 166
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4176127,
+          44.8199616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 166
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4176509,
+          44.8200051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 167
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4175889,
+          44.8201231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 168
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4175889,
+          44.8201231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 168
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417608,
+          44.8201566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 169
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4176556,
+          44.820124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 170
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4197384,
+          44.8209535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 181
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4198034,
+          44.8209238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 182
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4198812,
+          44.8208603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 183
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419843,
+          44.8208168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 184
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194916,
+          44.8204353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 185
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4194943,
+          44.820393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 186
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193883,
+          44.8204268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 187
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193498,
+          44.8204496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": 188
+      },
+      "id": 188
+    }
+  ]
 }
