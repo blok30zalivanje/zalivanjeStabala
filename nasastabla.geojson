@@ -3176,24 +3176,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.4176127,
-          44.8199616
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "ForestGreen",
-          "iconClass": "Circle"
-        },
-        "name": 166
-      },
-      "id": 166
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           20.4176509,
           44.8200051
         ],
@@ -3225,24 +3207,6 @@
         },
         "name": 168,
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Omiljeno stablo: 0\n - Zalivanja u 7 dana: 0\n - Ukupno zalivanja: 0\n\nOsnovne informacije o stablu:\n - Vrsta: Evropska tisa\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 161\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
-      },
-      "id": 168
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          20.4175889,
-          44.8201231
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "ForestGreen",
-          "iconClass": "Circle"
-        },
-        "name": 168
       },
       "id": 168
     },
