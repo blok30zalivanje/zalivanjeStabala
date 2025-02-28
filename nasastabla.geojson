@@ -2912,24 +2912,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.4174981,
-          44.8201875
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "ForestGreen",
-          "iconClass": "Circle"
-        },
-        "name": 154
-      },
-      "id": 154
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           20.4175125,
           44.8201585
         ],
@@ -2942,24 +2924,6 @@
         },
         "name": 155,
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Omiljeno stablo: 0\n - Zalivanja u 7 dana: 0\n - Ukupno zalivanja: 0\n\nOsnovne informacije o stablu:\n - Vrsta: Atlaski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 161\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
-      },
-      "id": 155
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          20.4175125,
-          44.8201585
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "ForestGreen",
-          "iconClass": "Circle"
-        },
-        "name": 155
       },
       "id": 155
     },
