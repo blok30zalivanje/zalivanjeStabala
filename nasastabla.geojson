@@ -3363,24 +3363,6 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 139\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
       },
       "id": 188
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          null,
-          null
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "ForestGreen",
-          "iconClass": "Circle"
-        },
-        "name": "undefined",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: undefined\n - Prijavljeno kao omiljeno: undefined\n - Broj zalivanja u 7 dana: undefined\n - Ukupan broj zalivanja: undefined\n\nOsnovne informacije:\n - Vrsta: undefined\n - Stanje: undefined\n - Debljina (cm): undefined\n - Najbliza adresa: undefined\n - Posadjeno: Invalid Date\n - Azurirano: Invalid Date"
-      }
     }
   ]
 }
