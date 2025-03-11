@@ -3363,6 +3363,44 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 139\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
       },
       "id": 188
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.41807,
+          44.81945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "100",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: nepoznata\n - Stanje: Ok\n - Debljina (cm): 23\n - Najbliza adresa: asd\n - Posadjeno: 12/30/2020, 12:00:00 AM\n - Azurirano: 3/7/2025, 10:40:15 PM"
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4181284,
+          44.8198933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "172",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: c\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: e\n - Posadjeno: Invalid Date\n - Azurirano: 2/28/2025, 10:19:38 PM"
+      },
+      "id": 172
     }
   ]
 }
