@@ -3401,6 +3401,1108 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: c\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: e\n - Posadjeno: Invalid Date\n - Azurirano: 2/28/2025, 10:19:38 PM"
       },
       "id": 172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4152526,
+          44.8173535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "200",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 200
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416267,
+          44.8159061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "201",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 201
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4159987,
+          44.8169587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "202",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 202
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4162846,
+          44.8168388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "203",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 203
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4161584,
+          44.8169009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "204",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 204
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416341,
+          44.8167523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "205",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 205
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4162274,
+          44.8166193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "206",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 206
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4161459,
+          44.8165289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "207",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 207
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4158785,
+          44.8162347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "208",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 208
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4160031,
+          44.8163587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "209",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 209
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4161622,
+          44.8166105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "210",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 210
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4162396,
+          44.8167262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "211",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 211
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4159061,
+          44.8163306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "212",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 212
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4159788,
+          44.816419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "213",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 213
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416056,
+          44.8164963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "214",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 214
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4158077,
+          44.8162241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "215",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 215
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4157106,
+          44.8162665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "216",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 216
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4155863,
+          44.8163273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "217",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 217
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4152437,
+          44.8164933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "218",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 218
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4152916,
+          44.8164721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "219",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 219
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4153539,
+          44.8164431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "220",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 220
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4152427,
+          44.8163512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "221",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 221
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4151227,
+          44.8164092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "222",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 222
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4150367,
+          44.816499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "223",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 223
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4150353,
+          44.8164448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "224",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 224
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4151599,
+          44.816529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "225",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 225
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4151129,
+          44.8165563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "226",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 226
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4150405,
+          44.8165852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "227",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 227
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.414976,
+          44.8166163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "228",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 228
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4149194,
+          44.8166425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "229",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 229
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4148662,
+          44.8166696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "230",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 230
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4147979,
+          44.8166093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "231",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 231
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.413635,
+          44.8172321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "232",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 232
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4134873,
+          44.8172929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "233",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 233
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4150349,
+          44.8172051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "234",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 234
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4150689,
+          44.8172453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "235",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 235
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4151075,
+          44.8172874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "236",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 236
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4152017,
+          44.817385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "237",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 237
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4153772,
+          44.8174263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "238",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 238
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.415106,
+          44.8175541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "239",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 239
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4149962,
+          44.8176046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "240",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 240
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4154634,
+          44.8173907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "241",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 241
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4155151,
+          44.8173559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "242",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 242
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4153258,
+          44.8173173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "243",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 243
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.415389,
+          44.817294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "244",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 244
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.415504,
+          44.8172477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "245",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 245
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4152502,
+          44.8178348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "246",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 246
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4186537,
+          44.8148025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "247",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 247
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4186137,
+          44.8148233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "248",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 248
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4167709,
+          44.8144939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "249",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 249
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4170157,
+          44.8144263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "250",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 250
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417209,
+          44.814348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "251",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 251
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4174054,
+          44.8145823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "252",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 252
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178848,
+          44.8140653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "253",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 253
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4150452,
+          44.8164421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "254",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 254
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4149686,
+          44.8164135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "255",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 255
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4148179,
+          44.816549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "256",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 256
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4143692,
+          44.816804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "257",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
+      },
+      "id": 257
     }
   ]
 }
