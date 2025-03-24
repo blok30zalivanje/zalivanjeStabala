@@ -3368,8 +3368,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.41807,
-          44.81945
+          20.4205424,
+          44.8186581
         ],
         "type": "Point"
       },
@@ -3379,7 +3379,7 @@
           "iconClass": "Circle"
         },
         "name": "100",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: nepoznata\n - Stanje: Ok\n - Debljina (cm): 23\n - Najbliza adresa: asd\n - Posadjeno: 12/30/2020, 12:00:00 AM\n - Azurirano: 3/7/2025, 10:40:15 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/13/2025, 10:18:13 AM"
       },
       "id": 100
     },
@@ -3387,8 +3387,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.4181284,
-          44.8198933
+          20.42157,
+          44.8183739
         ],
         "type": "Point"
       },
@@ -3398,7 +3398,7 @@
           "iconClass": "Circle"
         },
         "name": "172",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: c\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: e\n - Posadjeno: Invalid Date\n - Azurirano: 2/28/2025, 10:19:38 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: Invalid Date\n - Azurirano: 3/13/2025, 9:54:51 AM"
       },
       "id": 172
     },
@@ -4503,6 +4503,25 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: Invalid Date\n - Azurirano: 3/14/2025, 12:00:00 AM"
       },
       "id": 257
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4215455,
+          44.818353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "171",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: Invalid Date\n - Azurirano: 3/13/2025, 9:56:00 AM"
+      },
+      "id": 171
     }
   ]
 }
