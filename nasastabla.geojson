@@ -4541,6 +4541,25 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnija\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 3/25/2025, 8:45:57 PM"
       },
       "id": 174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4173639,
+          44.8218432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "173",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnia\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 3/25/2025, 8:48:11 PM"
+      },
+      "id": 173
     }
   ]
 }
