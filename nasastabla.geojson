@@ -4690,7 +4690,7 @@
           "iconClass": "Circle"
         },
         "name": "999",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: x\n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 1/1/1970, 1:00:00 AM\n - Azurirano: 4/4/2025, 1:34:13 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: x\n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: Invalid Date\n - Azurirano: 4/4/2025, 1:34:13 AM"
       },
       "id": 999
     }
