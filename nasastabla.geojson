@@ -4560,6 +4560,120 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnia\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 3/25/2025, 8:48:11 PM"
       },
       "id": 173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416774,
+          44.826057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "175",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Ginko biloba\n - Stanje: Ok\n - Debljina (cm): 3.1\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: 11/15/2023, 12:00:00 AM\n - Azurirano: 4/4/2025, 12:07:05 AM"
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416591,
+          44.825866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "176",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): 4.3\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: Invalid Date\n - Azurirano: 4/4/2025, 12:05:25 AM"
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416568,
+          44.825836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "177",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): 3\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: Invalid Date\n - Azurirano: 4/4/2025, 12:04:42 AM"
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416595,
+          44.825825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "178",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): 4.7\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: Invalid Date\n - Azurirano: 4/4/2025, 12:03:53 AM"
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416559,
+          44.825813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "179",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): 2.8\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: Invalid Date\n - Azurirano: 4/4/2025, 12:03:17 AM"
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.416465,
+          44.825841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "180",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: lipa\n - Stanje: Ok\n - Debljina (cm): 4.7\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: 9/3/2025, 12:00:00 AM\n - Azurirano: 4/4/2025, 12:01:52 AM"
+      },
+      "id": 180
     }
   ]
 }
