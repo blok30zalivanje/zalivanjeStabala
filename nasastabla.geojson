@@ -4674,6 +4674,25 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: lipa\n - Stanje: Ok\n - Debljina (cm): 4.7\n - Najbliza adresa: Aleksina?kih rudara 39b\n - Posadjeno: 9/3/2025, 12:00:00 AM\n - Azurirano: 4/4/2025, 12:01:52 AM"
       },
       "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42157001,
+          44.81837001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "ForestGreen",
+          "iconClass": "Circle"
+        },
+        "name": "999",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: x\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: Invalid Date\n - Azurirano: 3/13/2025, 9:54:51 AM"
+      },
+      "id": 999
     }
   ]
 }
