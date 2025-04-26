@@ -2121,11 +2121,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "113",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 94\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 94\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/26/2025, 8:32:34 AM"
       },
       "id": 113
     },
