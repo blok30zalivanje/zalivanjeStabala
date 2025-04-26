@@ -1669,7 +1669,7 @@
           "iconClass": "Circle"
         },
         "name": "88",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Osuseno\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 135\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Osuseno\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 135\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
       },
       "id": 88
     },
@@ -3318,11 +3318,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "186",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Atlaski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 139\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Atlaski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 139\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/26/2025, 3:47:34 PM"
       },
       "id": 186
     },
