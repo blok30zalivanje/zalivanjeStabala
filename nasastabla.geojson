@@ -4655,6 +4655,25 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: lipa\n - Stanje: Ok\n - Debljina (cm): 4.7\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 9/3/2025, 12:00:00 AM\n - Azurirano: 4/4/2025, 12:01:52 AM"
       },
       "id": 306
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4205424,
+          44.8186581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "180",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: \n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 3/13/2025, 10:18:13 AM"
+      },
+      "id": 180
     }
   ]
 }
