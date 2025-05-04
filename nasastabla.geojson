@@ -3337,11 +3337,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "187",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 5/3/2025, 12:00:00 AM\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 139\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/27/2025, 4:02:41 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 5/3/2025, 12:00:00 AM\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 139\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/27/2025, 4:02:41 PM"
       },
       "id": 187
     },
