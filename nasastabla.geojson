@@ -2178,11 +2178,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "116",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Crveni hrast\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 92\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 11:25:49 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Crveni hrast\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 92\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 11:25:49 PM"
       },
       "id": 116
     },
