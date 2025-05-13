@@ -240,11 +240,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "13",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 09/05/2024\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 8\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: \n - Azurirano: 5/13/2025, 7:50:52 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 09/05/2024\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 8\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: \n - Azurirano: 5/13/2025, 7:50:52 AM"
       },
       "id": 13
     },
@@ -2862,11 +2862,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "152",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:49 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:49 AM"
       },
       "id": 152
     },
@@ -2881,11 +2881,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "153",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:48 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:48 AM"
       },
       "id": 153
     },
@@ -4515,11 +4515,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "189",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnia\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:50 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnia\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:50 AM"
       },
       "id": 189
     },
@@ -4534,11 +4534,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "190",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnija\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:51 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Paulovnija\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 3/24/2025, 12:00:00 AM\n - Azurirano: 5/13/2025, 7:50:51 AM"
       },
       "id": 190
     },
@@ -4679,18 +4679,18 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.4181284,
-          44.8198933
+          20.4172579944133,
+          44.8215996739251
         ],
         "type": "Point"
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "100",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: zxc\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: a_test asd asd 1\n - Posadjeno: \n - Azurirano: 5/7/2025, 5:07:47 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: \n - Azurirano: 5/13/2025, 7:47:24 AM"
       },
       "id": 100
     }
