@@ -4674,25 +4674,6 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 3/13/2025, 10:18:13 AM"
       },
       "id": 180
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          20.4172579944133,
-          44.8215996739251
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_umap_options": {
-          "color": "rgb(100, 196, 100)",
-          "iconClass": "Circle"
-        },
-        "name": "100",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: \n - Azurirano: 5/13/2025, 7:47:24 AM"
-      },
-      "id": 100
     }
   ]
 }
