@@ -4769,6 +4769,196 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 155\n - Posadjeno: \n - Azurirano: 5/13/2025, 11:02:58 PM"
       },
       "id": 171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418005,
+          44.820629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "94",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:34:15 AM"
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418155,
+          44.820537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "95",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:33:27 AM"
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418166,
+          44.820548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "96",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:32:45 AM"
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418184,
+          44.820507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "97",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:31:56 AM"
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418257,
+          44.820555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "100",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:31:09 AM"
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418297,
+          44.82048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "193",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:30:14 AM"
+      },
+      "id": 193
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418366,
+          44.820465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "194",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:29:27 AM"
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418491,
+          44.819866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "195",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 153\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:27:32 AM"
+      },
+      "id": 195
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418545,
+          44.819808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "196",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 153\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:26:30 AM"
+      },
+      "id": 196
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.418528,
+          44.819822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "197",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 153\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:25:44 AM"
+      },
+      "id": 197
     }
   ]
 }
