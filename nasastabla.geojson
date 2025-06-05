@@ -2805,11 +2805,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "153",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/04/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 1:25:59 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/04/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 5/13/2025, 1:25:59 PM"
       },
       "id": 153
     },
