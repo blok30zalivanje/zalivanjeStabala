@@ -2653,11 +2653,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "145",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 05/20/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 149\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/26/2025, 10:17:35 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/05/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 3\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 149\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/26/2025, 10:17:35 AM"
       },
       "id": 145
     },
@@ -2691,11 +2691,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "147",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 05/20/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 149\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/25/2025, 9:51:37 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/05/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 3\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 149\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/25/2025, 9:51:37 PM"
       },
       "id": 147
     },
