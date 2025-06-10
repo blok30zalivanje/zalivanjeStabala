@@ -4838,11 +4838,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "97",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/10/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:31:56 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/10/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 159\n - Posadjeno: \n - Azurirano: 5/14/2025, 11:31:56 AM"
       },
       "id": 97
     },
