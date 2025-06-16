@@ -5408,11 +5408,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "279",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Crni Bor\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 3/20/2025, 12:00:00 AM\n - Azurirano: 6/12/2025, 1:12:59 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Crni Bor\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 3/20/2025, 12:00:00 AM\n - Azurirano: 6/12/2025, 1:12:59 AM"
       },
       "id": 279
     }
