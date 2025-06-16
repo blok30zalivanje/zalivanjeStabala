@@ -810,11 +810,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "43",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/09/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 28\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 70\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/09/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 28\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 70\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
       },
       "id": 43
     },
@@ -1779,11 +1779,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(100, 196, 100)",
           "iconClass": "Circle"
         },
         "name": "98",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/15/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 24\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 66\n - Posadjeno: \n - Azurirano: 4/28/2025, 11:49:13 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/15/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 24\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 66\n - Posadjeno: \n - Azurirano: 4/28/2025, 11:49:13 PM"
       },
       "id": 98
     },
