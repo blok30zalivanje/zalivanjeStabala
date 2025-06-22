@@ -5700,6 +5700,25 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 1\n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/20/2025, 7:17:16 PM"
       },
       "id": 294
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3991715,
+          44.8009695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "295",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 6\n - Najbliza adresa: Jurija Gagarina 47\n - Posadjeno: \n - Azurirano: 6/22/2025, 1:23:41 PM"
+      },
+      "id": 295
     }
   ]
 }
