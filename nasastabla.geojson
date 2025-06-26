@@ -5731,11 +5731,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "296",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:37:41 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:37:41 PM"
       },
       "id": 296
     },
@@ -5750,11 +5750,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "297",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:36:58 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:36:58 PM"
       },
       "id": 297
     },
@@ -5788,11 +5788,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "299",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:35:20 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:35:20 PM"
       },
       "id": 299
     },
@@ -5807,11 +5807,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "300",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:33:44 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:33:44 PM"
       },
       "id": 300
     }
