@@ -5814,6 +5814,25 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/25/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 6/22/2025, 5:33:44 PM"
       },
       "id": 300
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4193494,
+          44.8210898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "309",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 1\n - Najbliza adresa: Bulevar Mihajla Pupina 141\n - Posadjeno: \n - Azurirano: 6/26/2025, 9:43:15 PM"
+      },
+      "id": 309
     }
   ]
 }
