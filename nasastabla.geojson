@@ -601,11 +601,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "32",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 09/14/2024\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 31\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 09/14/2024\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 31\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
       },
       "id": 32
     },
