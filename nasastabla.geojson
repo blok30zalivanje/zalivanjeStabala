@@ -2296,7 +2296,7 @@
           "iconClass": "Circle"
         },
         "name": "126",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/28/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 16\n\nOsnovne informacije:\n - Vrsta: Crveni hrast\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/28/2025, 11:13:53 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/01/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 17\n\nOsnovne informacije:\n - Vrsta: Crveni hrast\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/28/2025, 11:13:53 PM"
       },
       "id": 126
     },
@@ -2315,7 +2315,7 @@
           "iconClass": "Circle"
         },
         "name": "127",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/30/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 19\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/28/2025, 11:13:52 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/01/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 20\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/28/2025, 11:13:52 PM"
       },
       "id": 127
     },
@@ -2334,7 +2334,7 @@
           "iconClass": "Circle"
         },
         "name": "128",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/30/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 19\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/28/2025, 11:45:40 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/01/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 20\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 4/28/2025, 11:45:40 PM"
       },
       "id": 128
     },
@@ -6061,6 +6061,177 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Breza\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Jurija Gagarina 113\n - Posadjeno: \n - Azurirano: 6/29/2025, 5:39:35 PM"
       },
       "id": 317
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188744,
+          44.8212025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "318",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:18:39 PM"
+      },
+      "id": 318
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188378,
+          44.8211916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "319",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:18:11 PM"
+      },
+      "id": 319
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188137,
+          44.821179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "320",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:17:41 PM"
+      },
+      "id": 320
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188516,
+          44.8211381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "321",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:17:08 PM"
+      },
+      "id": 321
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188237,
+          44.821145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "322",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:16:38 PM"
+      },
+      "id": 322
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188734,
+          44.8211181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "323",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:16:05 PM"
+      },
+      "id": 323
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187892,
+          44.8211286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "324",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:15:17 PM"
+      },
+      "id": 324
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4188288,
+          44.8210946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "325",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:14:48 PM"
+      },
+      "id": 325
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4187989,
+          44.8210915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "326",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:14:00 PM"
+      },
+      "id": 326
     }
   ]
 }
