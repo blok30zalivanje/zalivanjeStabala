@@ -6232,6 +6232,557 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/1/2025, 10:14:00 PM"
       },
       "id": 326
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3958137,
+          44.7970012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "327",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:48:06 PM"
+      },
+      "id": 327
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3957024,
+          44.7969984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "328",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:47:25 PM"
+      },
+      "id": 328
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956126,
+          44.7970479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "329",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:46:49 PM"
+      },
+      "id": 329
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956039,
+          44.7971081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "330",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:45:32 PM"
+      },
+      "id": 330
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3957071,
+          44.7971183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "331",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:44:48 PM"
+      },
+      "id": 331
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956072,
+          44.7971699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "334",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:43:11 PM"
+      },
+      "id": 334
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956971,
+          44.797173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "335",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:42:41 PM"
+      },
+      "id": 335
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956947,
+          44.7972337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "336",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:41:42 PM"
+      },
+      "id": 336
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3955888,
+          44.7972349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "337",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:41:03 PM"
+      },
+      "id": 337
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.395578,
+          44.7973522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "338",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:40:03 PM"
+      },
+      "id": 338
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956907,
+          44.7973046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "339",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:39:23 PM"
+      },
+      "id": 339
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.395573,
+          44.7972917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "340",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:37:42 PM"
+      },
+      "id": 340
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3956709,
+          44.7973912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "341",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 8:36:43 PM"
+      },
+      "id": 341
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4036495,
+          44.7981125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "342",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:41:32 PM"
+      },
+      "id": 342
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4030932,
+          44.7979115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "343",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:39:08 PM"
+      },
+      "id": 343
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.403045,
+          44.7979429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "344",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:37:50 PM"
+      },
+      "id": 344
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4029303,
+          44.7979222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "345",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:36:30 PM"
+      },
+      "id": 345
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.402876,
+          44.7980423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "346",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:35:14 PM"
+      },
+      "id": 346
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4029645,
+          44.7980159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "347",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:34:01 PM"
+      },
+      "id": 347
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4029766,
+          44.7979859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "348",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:32:17 PM"
+      },
+      "id": 348
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4030141,
+          44.7980335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "349",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 7:23:22 PM"
+      },
+      "id": 349
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.23377,
+          44.47599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": "350",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Suvo\n - Debljina (cm): 4\n - Najbliza adresa: Gandijeva 159\n - Posadjeno: \n - Azurirano: 7/13/2025, 11:51:29 AM"
+      },
+      "id": 350
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4019104,
+          44.7990101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": "351",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 11:27:55 AM"
+      },
+      "id": 351
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4018155,
+          44.7989062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "352",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 11:20:04 AM"
+      },
+      "id": 352
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3951009,
+          44.8018274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "353",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Koka mar\n - Posadjeno: \n - Azurirano: 7/13/2025, 10:58:13 AM"
+      },
+      "id": 353
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3951204,
+          44.8019313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "354",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 10:50:46 AM"
+      },
+      "id": 354
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.395209,
+          44.801732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "355",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 10:45:03 AM"
+      },
+      "id": 355
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3951546,
+          44.801634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": "356",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Suvo\n - Debljina (cm): 2\n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 10:38:53 AM"
+      },
+      "id": 356
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3951546,
+          44.801634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "357",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 6\n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/13/2025, 10:37:38 AM"
+      },
+      "id": 357
     }
   ]
 }
