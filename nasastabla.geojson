@@ -2178,11 +2178,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(34, 133, 34)",
+          "color": "rgb(12, 112, 12)",
           "iconClass": "Circle"
         },
         "name": "120",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/14/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 6\n - Ukupan broj zalivanja: 17\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/14/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 7\n - Ukupan broj zalivanja: 18\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 157\n - Posadjeno: 11/30/2024, 12:00:00 AM\n - Azurirano: 11/30/2024, 12:00:00 AM"
       },
       "id": 120
     },
@@ -6700,11 +6700,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(56, 154, 56)",
+          "color": "rgb(34, 133, 34)",
           "iconClass": "Circle"
         },
         "name": "353",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/13/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: Sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Koka mar\n - Posadjeno: \n - Azurirano: 7/13/2025, 10:58:13 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/14/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 6\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: Sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Koka mar\n - Posadjeno: \n - Azurirano: 7/13/2025, 10:58:13 AM"
       },
       "id": 353
     },
