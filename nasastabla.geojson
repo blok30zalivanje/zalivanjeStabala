@@ -6878,6 +6878,177 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/14/2025, 1:20:14 PM"
       },
       "id": 362
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391736,
+          44.796443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "363",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 227\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:57:28 PM"
+      },
+      "id": 363
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391661,
+          44.79637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "364",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 227\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:56:11 PM"
+      },
+      "id": 364
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391665,
+          44.796416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "365",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 201\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:54:53 PM"
+      },
+      "id": 365
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391678,
+          44.796466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "366",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 227\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:53:36 PM"
+      },
+      "id": 366
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391565,
+          44.796298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "367",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 227\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:52:22 PM"
+      },
+      "id": 367
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391567,
+          44.796359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "368",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 201\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:51:21 PM"
+      },
+      "id": 368
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391581,
+          44.796406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "369",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 227\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:49:26 PM"
+      },
+      "id": 369
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.391588,
+          44.796446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "370",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 227\n - Posadjeno: \n - Azurirano: 7/14/2025, 10:48:04 PM"
+      },
+      "id": 370
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3951281,
+          44.8018768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "371",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/14/2025, 6:12:11 PM"
+      },
+      "id": 371
     }
   ]
 }
