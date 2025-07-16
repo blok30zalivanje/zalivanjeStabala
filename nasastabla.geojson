@@ -6636,8 +6636,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.23377,
-          44.47599
+          20.3943013,
+          44.799135
         ],
         "type": "Point"
       },
@@ -6647,7 +6647,7 @@
           "iconClass": "Circle"
         },
         "name": "350",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Suvo\n - Debljina (cm): 4\n - Najbliza adresa: Gandijeva 159\n - Posadjeno: \n - Azurirano: 7/13/2025, 11:51:29 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Suvo\n - Debljina (cm): 4\n - Najbliza adresa: Gandijeva 159\n - Posadjeno: \n - Azurirano: 7/16/2025, 11:15:50 PM"
       },
       "id": 350
     },
