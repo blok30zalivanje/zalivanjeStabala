@@ -1152,11 +1152,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "61",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/17/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 24\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 161\n - Posadjeno: \n - Azurirano: 4/28/2025, 11:41:42 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/17/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 24\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 161\n - Posadjeno: \n - Azurirano: 4/28/2025, 11:41:42 PM"
       },
       "id": 61
     },
@@ -1175,7 +1175,7 @@
           "iconClass": "Circle"
         },
         "name": "62",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 100\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 100\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
       },
       "id": 62
     },
