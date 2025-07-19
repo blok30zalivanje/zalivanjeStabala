@@ -601,11 +601,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "32",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 09/14/2024\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 31\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 09/14/2024\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 31\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 5/24/2024, 12:00:00 AM"
       },
       "id": 32
     },
@@ -624,7 +624,7 @@
           "iconClass": "Circle"
         },
         "name": "33",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 4/8/2025, 10:52:51 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: \n - Azurirano: 4/8/2025, 10:52:51 PM"
       },
       "id": 33
     },
