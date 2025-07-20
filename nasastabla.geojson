@@ -3299,11 +3299,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "200",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Arsenija Carnojevica 117v\n - Posadjeno: \n - Azurirano: 3/14/2025, 12:00:00 AM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Arsenija Carnojevica 117v\n - Posadjeno: \n - Azurirano: 3/14/2025, 12:00:00 AM"
       },
       "id": 200
     },
@@ -4971,11 +4971,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(100, 196, 100)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "198",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/15/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 7\n\nOsnovne informacije:\n - Vrsta: Crni bor\n - Stanje: Ok\n - Debljina (cm): 5.2\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 3/1/2023, 12:00:00 AM\n - Azurirano: 6/9/2025, 11:27:38 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/15/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 7\n\nOsnovne informacije:\n - Vrsta: Crni bor\n - Stanje: Ok\n - Debljina (cm): 5.2\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 3/1/2023, 12:00:00 AM\n - Azurirano: 6/9/2025, 11:27:38 PM"
       },
       "id": 198
     },
@@ -4990,11 +4990,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(100, 196, 100)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "199",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/15/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 7\n\nOsnovne informacije:\n - Vrsta: Crni bor\n - Stanje: Ok\n - Debljina (cm): 4.3\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 3/1/2022, 12:00:00 AM\n - Azurirano: 6/9/2025, 11:27:05 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/15/2025\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 7\n\nOsnovne informacije:\n - Vrsta: Crni bor\n - Stanje: Ok\n - Debljina (cm): 4.3\n - Najbliza adresa: Aleksinackih rudara 39b\n - Posadjeno: 3/1/2022, 12:00:00 AM\n - Azurirano: 6/9/2025, 11:27:05 PM"
       },
       "id": 199
     },
