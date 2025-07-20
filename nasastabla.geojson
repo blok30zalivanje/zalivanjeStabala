@@ -1646,11 +1646,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "87",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/28/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 5\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 135\n - Posadjeno: \n - Azurirano: 5/13/2025, 1:26:05 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/28/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 5\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 135\n - Posadjeno: \n - Azurirano: 5/13/2025, 1:26:05 PM"
       },
       "id": 87
     },
@@ -1669,7 +1669,7 @@
           "iconClass": "Circle"
         },
         "name": "88",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/23/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 10\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 135\n - Posadjeno: \n - Azurirano: 6/23/2025, 11:30:49 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 06/23/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 10\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Suvo\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 135\n - Posadjeno: \n - Azurirano: 6/23/2025, 11:30:49 PM"
       },
       "id": 88
     },
@@ -1688,7 +1688,7 @@
           "iconClass": "Circle"
         },
         "name": "89",
-        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 133\n - Posadjeno: \n - Azurirano: 6/23/2025, 11:30:51 PM"
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 133\n - Posadjeno: \n - Azurirano: 6/23/2025, 11:30:51 PM"
       },
       "id": 89
     },
