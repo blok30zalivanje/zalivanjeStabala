@@ -7334,6 +7334,177 @@
         "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 2.2\n - Najbliza adresa: Aleksinackih rudara 71\n - Posadjeno: \n - Azurirano: "
       },
       "id": 387
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3950979,
+          44.8023103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "350",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Jurija Gagarina 77 \n - Posadjeno: \n - Azurirano: 7/22/2025, 7:16:06 PM"
+      },
+      "id": 350
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3951321,
+          44.8022444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "388",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Ok\n - Debljina (cm): 3\n - Najbliza adresa: Jurija Gagarina 77\n - Posadjeno: \n - Azurirano: 7/22/2025, 7:14:12 PM"
+      },
+      "id": 388
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.394014,
+          44.8015909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "389",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Albicija ? kineska mimoza\n - Stanje: Ok\n - Debljina (cm): 1.5\n - Najbliza adresa: Jurija Gagarina 95-99\n - Posadjeno: 3/8/2025, 12:00:00 AM\n - Azurirano: 7/22/2025, 11:51:31 AM"
+      },
+      "id": 389
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.394018,
+          44.8015771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "390",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska kruska \n - Stanje: Ok\n - Debljina (cm): 1.5\n - Najbliza adresa: Jurija Gagarina 95-99\n - Posadjeno: 3/8/2025, 12:00:00 AM\n - Azurirano: 7/22/2025, 11:47:48 AM"
+      },
+      "id": 390
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3950674,
+          44.8023947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "391",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/22/2025, 9:36:02 AM"
+      },
+      "id": 391
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3905489,
+          44.8004633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "392",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/22/2025, 9:27:13 AM"
+      },
+      "id": 392
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.390567,
+          44.8005273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "393",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/22/2025, 9:26:25 AM"
+      },
+      "id": 393
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3944072,
+          44.7994886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "394",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Gandijeva 161\n - Posadjeno: \n - Azurirano: 7/22/2025, 9:13:51 AM"
+      },
+      "id": 394
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.401882,
+          44.799013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "408",
+        "description": "Akcija zalivanja:\n - Zaliveno vodom/kisom: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: \n - Azurirano: 7/19/2025, 9:49:03 AM"
+      },
+      "id": 408
     }
   ]
 }
