@@ -7555,11 +7555,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "397",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/24/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/18/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/24/2025"
       },
       "id": 397
     },
