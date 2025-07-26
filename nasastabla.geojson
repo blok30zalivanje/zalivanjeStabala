@@ -7619,6 +7619,25 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 07/18/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/22/2025"
       },
       "id": 400
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4039723,
+          44.7998102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "401",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Dr Agostina Neta 62\n - Posadjeno: 01/01/1970\n - Azurirano: 07/25/2025"
+      },
+      "id": 401
     }
   ]
 }
