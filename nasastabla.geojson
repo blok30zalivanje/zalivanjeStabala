@@ -7638,6 +7638,120 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 2\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Dr Agostina Neta 62\n - Posadjeno: 01/01/1970\n - Azurirano: 07/25/2025"
       },
       "id": 401
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3993571342412,
+          44.7983387674652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "iconClass": "Circle"
+        },
+        "name": "402",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: celtis\n - Stanje: Ok\n - Debljina (cm): 12\n - Najbliza adresa: Omladinskih brigada 162\n - Posadjeno: 05/04/2020\n - Azurirano: 07/26/2025"
+      },
+      "id": 402
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3996564096381,
+          44.7984865970806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "403",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: celtis\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Omladinskih brigada 152\n - Posadjeno: 11/13/2023\n - Azurirano: 07/26/2025"
+      },
+      "id": 403
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3995440633209,
+          44.7984811794177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "iconClass": "Circle"
+        },
+        "name": "404",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: celtis\n - Stanje: Ok\n - Debljina (cm): 10\n - Najbliza adresa: Omladinskih brigada 152\n - Posadjeno: 05/04/2020\n - Azurirano: 07/26/2025"
+      },
+      "id": 404
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3992768318324,
+          44.798499754874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "iconClass": "Circle"
+        },
+        "name": "405",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: celtis\n - Stanje: Ok\n - Debljina (cm): 10\n - Najbliza adresa: Omladinskih brigada 152\n - Posadjeno: 05/04/2020\n - Azurirano: 07/26/2025"
+      },
+      "id": 405
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3993826336347,
+          44.7986150776709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "406",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: celtis\n - Stanje: Ok\n - Debljina (cm): 5\n - Najbliza adresa: Omladinskih brigada 152\n - Posadjeno: 05/04/2020\n - Azurirano: 07/26/2025"
+      },
+      "id": 406
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.399203711726,
+          44.7986358514841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "407",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: jasen\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Omladinskih brigada 160\n - Posadjeno: 05/04/2020\n - Azurirano: 07/26/2025"
+      },
+      "id": 407
     }
   ]
 }
