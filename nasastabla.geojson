@@ -5693,11 +5693,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(78, 175, 78)",
           "iconClass": "Circle"
         },
         "name": "294",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/28/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 4\n\nOsnovne informacije:\n - Vrsta: LIPA\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/29/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/28/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 4\n\nOsnovne informacije:\n - Vrsta: LIPA\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/29/2025"
       },
       "id": 294
     },
