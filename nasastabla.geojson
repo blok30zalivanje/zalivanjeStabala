@@ -5686,18 +5686,18 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.396013,
-          44.800721
+          20.39648,
+          44.800751
         ],
         "type": "Point"
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(56, 154, 56)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "294",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/30/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 6\n\nOsnovne informacije:\n - Vrsta: LIPA\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/29/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/30/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 6\n\nOsnovne informacije:\n - Vrsta: LIPA\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 08/04/2025"
       },
       "id": 294
     },
@@ -7828,6 +7828,63 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 07/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Jorgovan\n - Stanje: Ok\n - Debljina (cm): 1\n - Najbliza adresa: Bulevar umetnosti 1\n - Posadjeno: 11/25/2024\n - Azurirano: 07/28/2025"
       },
       "id": 412
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.392576,
+          44.7963581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "413",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 08/03/2025"
+      },
+      "id": 413
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3925629,
+          44.7964107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "414",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 08/03/2025"
+      },
+      "id": 414
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.3926196,
+          44.7964091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "415",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 08/03/2025"
+      },
+      "id": 415
     }
   ]
 }
