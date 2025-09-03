@@ -6662,11 +6662,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "DarkOrange",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "352",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/22/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 3\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/13/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/01/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 3\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 07/13/2025"
       },
       "id": 352
     },
@@ -7631,11 +7631,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "401",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/27/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 5\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Dr Agostina Neta 62\n - Posadjeno: 01/01/1970\n - Azurirano: 07/25/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/01/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 5\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Dr Agostina Neta 62\n - Posadjeno: 01/01/1970\n - Azurirano: 07/25/2025"
       },
       "id": 401
     },
