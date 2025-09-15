@@ -7897,11 +7897,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "416",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/13/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 5\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Omladinskih brigada 55-57\n - Posadjeno: 11/11/2022\n - Azurirano: 08/12/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/14/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 6\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Omladinskih brigada 55-57\n - Posadjeno: 11/11/2022\n - Azurirano: 08/12/2025"
       },
       "id": 416
     },
@@ -7916,11 +7916,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "rgb(122, 217, 122)",
           "iconClass": "Circle"
         },
         "name": "417",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/13/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 5\n\nOsnovne informacije:\n - Vrsta: Paulovnija belisima\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Omladinskih brigada 55-57\n - Posadjeno: 11/11/2020\n - Azurirano: 08/12/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/14/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 6\n\nOsnovne informacije:\n - Vrsta: Paulovnija belisima\n - Stanje: Ok\n - Debljina (cm): 4\n - Najbliza adresa: Omladinskih brigada 55-57\n - Posadjeno: 11/11/2020\n - Azurirano: 08/12/2025"
       },
       "id": 417
     }
