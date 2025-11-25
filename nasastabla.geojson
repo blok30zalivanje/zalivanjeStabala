@@ -7980,6 +7980,44 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/23/2025"
       },
       "id": 421
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42164,
+          44.817759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "419",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 8\n - Posadjeno: 03/27/2024\n - Azurirano: 11/25/2025"
+      },
+      "id": 419
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421505,
+          44.818116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "422",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/25/2025"
+      },
+      "id": 422
     }
   ]
 }
