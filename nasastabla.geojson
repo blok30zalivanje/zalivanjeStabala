@@ -567,7 +567,7 @@
           "iconClass": "Circle"
         },
         "name": "30",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 27\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 27\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
       },
       "id": 30
     },
@@ -8018,6 +8018,405 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 11/26/2025\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/25/2025"
       },
       "id": 422
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421148,
+          44.818092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "423",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 4\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+      },
+      "id": 423
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421253,
+          44.818088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "424",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+      },
+      "id": 424
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42133,
+          44.818085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "425",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: lipa\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+      },
+      "id": 425
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421714,
+          44.818838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "426",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 05/01/2009\n - Azurirano: 11/26/2025"
+      },
+      "id": 426
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421762,
+          44.818836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "427",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 05/01/2009\n - Azurirano: 11/26/2025"
+      },
+      "id": 427
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421559,
+          44.818581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "428",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 05/01/2009\n - Azurirano: 11/26/2025"
+      },
+      "id": 428
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421524,
+          44.818547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "429",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 05/01/2009\n - Azurirano: 11/26/2025"
+      },
+      "id": 429
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421106,
+          44.81861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "430",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boaraca 6\n - Posadjeno: 11/11/2002\n - Azurirano: 11/26/2025"
+      },
+      "id": 430
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421136,
+          44.818668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "431",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 11/11/2002\n - Azurirano: 11/26/2025"
+      },
+      "id": 431
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42133,
+          44.818085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "432",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: lipa\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+      },
+      "id": 432
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421153,
+          44.81851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "433",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: jasen\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 433
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421733,
+          44.818775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "434",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 434
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421703,
+          44.818741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "435",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 435
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421663,
+          44.818703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "436",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 436
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42163,
+          44.818665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "437",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 437
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421595,
+          44.818626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "438",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crni bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 438
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421467,
+          44.818587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "439",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 439
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421386,
+          44.818608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "440",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 440
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421304,
+          44.818585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "441",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 441
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421396,
+          44.818551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "442",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 442
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42147,
+          44.818529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(100, 196, 100)",
+          "iconClass": "Circle"
+        },
+        "name": "443",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 6\n - Posadjeno: 11/22/2025\n - Azurirano: 11/26/2025"
+      },
+      "id": 443
     }
   ]
 }
