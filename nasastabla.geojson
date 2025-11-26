@@ -563,11 +563,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(100, 196, 100)",
+          "color": "#C0C0C0",
           "iconClass": "Circle"
         },
         "name": "30",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 3\n - Ukupan broj zalivanja: 27\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 05/24/2024"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/23/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 27\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Izvadjeno\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
       },
       "id": 30
     },
