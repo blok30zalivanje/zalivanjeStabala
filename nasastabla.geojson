@@ -8049,11 +8049,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(78, 175, 78)",
+          "color": "Crimson",
           "iconClass": "Circle"
         },
         "name": "424",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/27/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/27/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: javor mlec (Acer Platanoides)\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 01/01/1970\n - Azurirano: 11/28/2025"
       },
       "id": 424
     },
@@ -8422,18 +8422,18 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421148,
-          44.818092
+          20.420999,
+          44.817662
         ],
         "type": "Point"
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(78, 175, 78)",
+          "color": "Crimson",
           "iconClass": "Circle"
         },
         "name": "444",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/27/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crvenolisna sljiva\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 2\n - Posadjeno: 01/01/1970\n - Azurirano: 11/26/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/27/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: crvenolisna sljiva (Prunus Pissardi)\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 2\n - Posadjeno: 01/01/1970\n - Azurirano: 11/28/2025"
       },
       "id": 444
     }
