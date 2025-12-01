@@ -8455,6 +8455,101 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 11/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: orah\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 4\n - Posadjeno: 01/01/1970\n - Azurirano: 11/28/2025"
       },
       "id": 445
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421551,
+          44.818894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(56, 154, 56)",
+          "iconClass": "Circle"
+        },
+        "name": "446",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 125\n - Posadjeno: 11/30/2025\n - Azurirano: 11/30/2025"
+      },
+      "id": 446
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421433,
+          44.818923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(56, 154, 56)",
+          "iconClass": "Circle"
+        },
+        "name": "447",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 125\n - Posadjeno: 11/30/2025\n - Azurirano: 11/30/2025"
+      },
+      "id": 447
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421343,
+          44.818975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(56, 154, 56)",
+          "iconClass": "Circle"
+        },
+        "name": "448",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 127\n - Posadjeno: 11/30/2025\n - Azurirano: 11/30/2025"
+      },
+      "id": 448
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421251,
+          44.81901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(56, 154, 56)",
+          "iconClass": "Circle"
+        },
+        "name": "449",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 127\n - Posadjeno: 11/30/2025\n - Azurirano: 11/30/2025"
+      },
+      "id": 449
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42082,
+          44.819097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(56, 154, 56)",
+          "iconClass": "Circle"
+        },
+        "name": "450",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 11/30/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 76\n - Posadjeno: 11/30/2025\n - Azurirano: 11/30/2025"
+      },
+      "id": 450
     }
   ]
 }
