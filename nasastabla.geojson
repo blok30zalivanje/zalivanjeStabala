@@ -8550,6 +8550,25 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 12/01/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 76\n - Posadjeno: 11/30/2025\n - Azurirano: 11/30/2025"
       },
       "id": 450
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421088,
+          44.818158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(78, 175, 78)",
+          "iconClass": "Circle"
+        },
+        "name": "451",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 12/01/2025\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: kleka Wichita Blue aka Blue Arrow\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 12/04/2025\n - Azurirano: 12/04/2025"
+      },
+      "id": 451
     }
   ]
 }
