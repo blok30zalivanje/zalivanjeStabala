@@ -8569,6 +8569,709 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 04/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: kleka Wichita Blue aka Blue Arrow\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 12/04/2025\n - Azurirano: 12/04/2025"
       },
       "id": 451
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419777,
+          44.825859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "452",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 452
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419585,
+          44.825845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "453",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 453
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419624,
+          44.825823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "454",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 454
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419686,
+          44.825824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "455",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 455
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419729,
+          44.825827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "456",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 456
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419765,
+          44.825828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "457",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 457
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419781,
+          44.825807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "458",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 458
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419745,
+          44.825796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "459",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 459
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419712,
+          44.825797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "460",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 460
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.41968,
+          44.825796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "461",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 461
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419631,
+          44.825793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "462",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 462
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419593,
+          44.82579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "463",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 463
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419603,
+          44.825754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "464",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 464
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419647,
+          44.825755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "465",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 465
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4197,
+          44.825751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "466",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 466
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419738,
+          44.825751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "467",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 467
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419774,
+          44.825753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "468",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 468
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419777,
+          44.82573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "469",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 469
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419726,
+          44.825723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "470",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 470
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419682,
+          44.825717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "471",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 471
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419633,
+          44.825713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "472",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 472
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419601,
+          44.825713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "473",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 473
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419609,
+          44.82569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "474",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 474
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419659,
+          44.825691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "475",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 475
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419706,
+          44.825692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "476",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 476
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419742,
+          44.825702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "477",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 477
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419784,
+          44.825703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "478",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 478
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419777,
+          44.825668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "479",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 479
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419722,
+          44.825665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "480",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 480
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419669,
+          44.825666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "481",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 481
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419631,
+          44.825666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "482",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 482
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419672,
+          44.825643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "483",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 483
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419721,
+          44.825643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "484",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 484
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419786,
+          44.825639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "485",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Japanska tresnja ? Kanzan\n - Stanje: Ok\n - Debljina (cm): 2\n - Najbliza adresa: Tresnjinog cveta 13\n - Posadjeno: 03/06/2026\n - Azurirano: 04/13/2026"
+      },
+      "id": 485
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419681,
+          44.826331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "486",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Javor\n - Stanje: Ok\n - Debljina (cm): 2.5\n - Najbliza adresa: Bulevar Nikole Tesle 48\n - Posadjeno: 01/01/1970\n - Azurirano: 04/13/2026"
+      },
+      "id": 486
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419636,
+          44.826339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "487",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Javor\n - Stanje: Ok\n - Debljina (cm): 2.5\n - Najbliza adresa: Bulevar Nikole Tesle 48\n - Posadjeno: 01/01/1970\n - Azurirano: 04/13/2026"
+      },
+      "id": 487
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.419662,
+          44.826386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "488",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Javor\n - Stanje: Ok\n - Debljina (cm): 2.5\n - Najbliza adresa: Bulevar Nikole Tesle 48\n - Posadjeno: 01/01/1970\n - Azurirano: 04/13/2026"
+      },
+      "id": 488
     }
   ]
 }
