@@ -905,11 +905,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "48",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 05/18/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 19\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 70\n - Posadjeno: 01/01/1970\n - Azurirano: 05/02/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 05/18/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 19\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 70\n - Posadjeno: 01/01/1970\n - Azurirano: 05/02/2025"
       },
       "id": 48
     },
