@@ -9291,6 +9291,177 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 05/27/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: Lipa\n - Stanje: Suvo\n - Debljina (cm): 2\n - Najbliza adresa: Dr Agostina Neta 64\n - Posadjeno: 03/22/2026\n - Azurirano: 05/28/2026"
       },
       "id": 489
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177274,
+          44.8201763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "491",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 491
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4176892,
+          44.8202265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "492",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 492
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4177368,
+          44.8202054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "493",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 493
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4179785,
+          44.8200755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "494",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 494
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4179674,
+          44.8200879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "495",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 495
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178615,
+          44.8201369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "496",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 496
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178819,
+          44.8201606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "497",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 497
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178457,
+          44.820173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "498",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 498
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.4178159,
+          44.8201478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "499",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Mihajla Pupina 161\n - Posadjeno: 01/01/1970\n - Azurirano: 05/30/2026"
+      },
+      "id": 499
     }
   ]
 }
