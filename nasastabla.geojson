@@ -9519,6 +9519,25 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 05/29/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 1\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 05/31/2026"
       },
       "id": 501
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.404199,
+          44.799707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Crimson",
+          "iconClass": "Circle"
+        },
+        "name": "505",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Lipa\n - Stanje: Ok\n - Debljina (cm): 1\n - Najbliza adresa: Dr Agostina Neta 64\n - Posadjeno: 03/13/2026\n - Azurirano: 05/30/2026"
+      },
+      "id": 505
     }
   ]
 }
