@@ -506,11 +506,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "Crimson",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "27",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 27\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/05/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 27\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/05/2026"
       },
       "id": 27
     },
@@ -9538,6 +9538,291 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Lipa\n - Stanje: Ok\n - Debljina (cm): 1\n - Najbliza adresa: Dr Agostina Neta 64\n - Posadjeno: 03/13/2026\n - Azurirano: 05/30/2026"
       },
       "id": 505
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421808,
+          44.817722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "502",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/20/2026\n - Azurirano: 06/04/2026"
+      },
+      "id": 502
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421785,
+          44.817697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "503",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/20/2026\n - Azurirano: 06/04/2026"
+      },
+      "id": 503
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421768,
+          44.817674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "504",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Himalajski kedar\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/20/2026\n - Azurirano: 06/04/2026"
+      },
+      "id": 504
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.422005,
+          44.817938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "506",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/15/2025\n - Azurirano: 06/04/2026"
+      },
+      "id": 506
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421987,
+          44.817912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "507",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Crvenolisna sljiva\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/15/2025\n - Azurirano: 06/04/2026"
+      },
+      "id": 507
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.422057,
+          44.817869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "508",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/15/2025\n - Azurirano: 06/04/2026"
+      },
+      "id": 508
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.422024,
+          44.817837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "509",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Crvenolisna sljiva\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/15/2025\n - Azurirano: 06/04/2026"
+      },
+      "id": 509
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421917,
+          44.81772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "510",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 04/15/2025\n - Azurirano: 06/04/2026"
+      },
+      "id": 510
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42174,
+          44.81772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "511",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/04/2025\n - Azurirano: 06/04/2026"
+      },
+      "id": 511
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.422086,
+          44.817778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "512",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/01/1970\n - Azurirano: 06/04/2026"
+      },
+      "id": 512
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.422128,
+          44.81782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "513",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/01/1970\n - Azurirano: 06/04/2026"
+      },
+      "id": 513
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421829,
+          44.817819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "514",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Jasen\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/01/1970\n - Azurirano: 06/04/2026"
+      },
+      "id": 514
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421872,
+          44.817802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "515",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Lipa\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/01/1970\n - Azurirano: 06/04/2026"
+      },
+      "id": 515
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421919,
+          44.817828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "516",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/01/1970\n - Azurirano: 06/04/2026"
+      },
+      "id": 516
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.421789,
+          44.817769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "517",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: Lipa\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 8\n - Posadjeno: 01/01/1970\n - Azurirano: 06/04/2026"
+      },
+      "id": 517
     }
   ]
 }
