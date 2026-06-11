@@ -1278,18 +1278,18 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.4174069,
-          44.8185565
+          20.417376,
+          44.818572
         ],
         "type": "Point"
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "68",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 3\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 18\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 86\n - Posadjeno: 01/01/1970\n - Azurirano: 04/28/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 3\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 18\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 86\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
       },
       "id": 68
     },
@@ -10830,6 +10830,139 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 25\n - Najbliza adresa: Aleksandra Tijanica 4\n - Posadjeno: 01/01/1970\n - Azurirano: 06/09/2026"
       },
       "id": 570
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417827,
+          44.818364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "571",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 84\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 571
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417768,
+          44.818282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "572",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 84\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 572
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417847,
+          44.818205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "573",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 82\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 573
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417924,
+          44.818262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "574",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 82\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 574
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417961,
+          44.818307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "575",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 82\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 575
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417132,
+          44.818661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "576",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 88\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 576
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.417092,
+          44.818602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "rgb(144, 238, 144)",
+          "iconClass": "Circle"
+        },
+        "name": "577",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/04/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 88\n - Posadjeno: 01/01/1970\n - Azurirano: 06/11/2026"
+      },
+      "id": 577
     }
   ]
 }
