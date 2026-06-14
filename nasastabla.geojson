@@ -4394,8 +4394,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421363,
-          44.818194
+          20.421415,
+          44.818294
         ],
         "type": "Point"
       },
@@ -4405,7 +4405,7 @@
           "iconClass": "Circle"
         },
         "name": "191",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: javor mlec\n - Stanje: Ok\n - Debljina (cm): 35\n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/13/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: javor mlec\n - Stanje: Ok\n - Debljina (cm): 35\n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/14/2026"
       },
       "id": 191
     },
@@ -8106,11 +8106,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "Blue",
           "iconClass": "Circle"
         },
         "name": "427",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: bor\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 05/01/2009\n - Azurirano: 11/26/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: bor\n - Stanje: Ok\n - Debljina (cm): 20\n - Najbliza adresa: ?panskih boraca 2\n - Posadjeno: 05/01/2009\n - Azurirano: 06/14/2026"
       },
       "id": 427
     },
@@ -8156,8 +8156,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421106,
-          44.81861
+          20.421098,
+          44.818606
         ],
         "type": "Point"
       },
@@ -8167,7 +8167,7 @@
           "iconClass": "Circle"
         },
         "name": "430",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): 74\n - Najbliza adresa: ?panskih boaraca 6\n - Posadjeno: 11/11/2002\n - Azurirano: 06/13/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): 74\n - Najbliza adresa: ?panskih boaraca 6\n - Posadjeno: 11/11/2002\n - Azurirano: 06/14/2026"
       },
       "id": 430
     },
@@ -8175,8 +8175,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421136,
-          44.818668
+          20.421133,
+          44.818665
         ],
         "type": "Point"
       },
@@ -8186,7 +8186,7 @@
           "iconClass": "Circle"
         },
         "name": "431",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): 74\n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 11/11/2002\n - Azurirano: 06/13/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sibirski brest\n - Stanje: Ok\n - Debljina (cm): 62\n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 11/11/2002\n - Azurirano: 06/14/2026"
       },
       "id": 431
     },
@@ -10968,8 +10968,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421334,
-          44.818211
+          20.421363,
+          44.818196
         ],
         "type": "Point"
       },
@@ -10979,7 +10979,7 @@
           "iconClass": "Circle"
         },
         "name": "578",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 26\n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/13/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: javor mlec\n - Stanje: Ok\n - Debljina (cm): 26\n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/14/2026"
       },
       "id": 578
     },
@@ -10987,8 +10987,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421442,
-          44.818231
+          20.421453,
+          44.818237
         ],
         "type": "Point"
       },
@@ -10998,7 +10998,7 @@
           "iconClass": "Circle"
         },
         "name": "579",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 24\n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/13/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): 24\n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/14/2026"
       },
       "id": 579
     },
@@ -11006,8 +11006,8 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.421131,
-          44.818414
+          20.421113,
+          44.818423
         ],
         "type": "Point"
       },
@@ -11017,7 +11017,7 @@
           "iconClass": "Circle"
         },
         "name": "580",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: beli jasen\n - Stanje: Ok\n - Debljina (cm): 26\n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/13/2026"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: \n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: beli jasen\n - Stanje: Ok\n - Debljina (cm): 26\n - Najbliza adresa: Spanskih boraca 6\n - Posadjeno: 01/01/1970\n - Azurirano: 06/14/2026"
       },
       "id": 580
     },
