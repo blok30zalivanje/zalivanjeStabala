@@ -11077,6 +11077,25 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: lipa\n - Stanje: Ok\n - Debljina (cm): 39\n - Najbliza adresa: Aleksandra Tijanica 4\n - Posadjeno: 01/01/1970\n - Azurirano: 06/13/2026"
       },
       "id": 583
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.42127,
+          44.818038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "Blue",
+          "iconClass": "Circle"
+        },
+        "name": "584",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 06/12/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: sljiva dzenerika\n - Stanje: Ok\n - Debljina (cm): 10\n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 01/01/1970\n - Azurirano: 06/14/2026"
+      },
+      "id": 584
     }
   ]
 }
