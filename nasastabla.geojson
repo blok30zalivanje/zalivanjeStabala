@@ -107,11 +107,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(78, 175, 78)",
+          "color": "rgb(56, 154, 56)",
           "iconClass": "Circle"
         },
         "name": "6",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/17/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 87\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 92\n - Posadjeno: 01/01/1970\n - Azurirano: 04/28/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/18/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 88\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 92\n - Posadjeno: 01/01/1970\n - Azurirano: 04/28/2025"
       },
       "id": 6
     },
@@ -1912,11 +1912,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(78, 175, 78)",
+          "color": "rgb(56, 154, 56)",
           "iconClass": "Circle"
         },
         "name": "106",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/17/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 4\n - Ukupan broj zalivanja: 60\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 94\n - Posadjeno: 11/30/2024\n - Azurirano: 04/28/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 07/18/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 61\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 94\n - Posadjeno: 11/30/2024\n - Azurirano: 04/28/2025"
       },
       "id": 106
     },
