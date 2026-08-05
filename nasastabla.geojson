@@ -11115,6 +11115,25 @@
         "description": "Akcija zalivanja:\n - Voda ili kisa: 07/13/2026\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: divlja vocka\n - Stanje: Ok\n - Debljina (cm): 27\n - Najbliza adresa: Aleksandra Tijanica 6\n - Posadjeno: 01/01/1970\n - Azurirano: 07/04/2026"
       },
       "id": 585
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          20.403758,
+          44.800285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_umap_options": {
+          "color": "#A9A9A9",
+          "iconClass": "Circle"
+        },
+        "name": "586",
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 01/01/1970\n - Prijavljeno kao omiljeno: 0\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 0\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Suvo\n - Debljina (cm): 10\n - Najbliza adresa: Dr Agostina Neta 56\n - Posadjeno: 01/01/2020\n - Azurirano: 08/03/2026"
+      },
+      "id": 586
     }
   ]
 }
