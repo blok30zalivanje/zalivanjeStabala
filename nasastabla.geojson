@@ -107,11 +107,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "6",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/30/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 101\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 92\n - Posadjeno: 01/01/1970\n - Azurirano: 04/28/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/30/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 101\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 92\n - Posadjeno: 01/01/1970\n - Azurirano: 04/28/2025"
       },
       "id": 6
     },
@@ -1912,11 +1912,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(122, 217, 122)",
+          "color": "rgb(144, 238, 144)",
           "iconClass": "Circle"
         },
         "name": "106",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/30/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 2\n - Ukupan broj zalivanja: 74\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 94\n - Posadjeno: 11/30/2024\n - Azurirano: 04/28/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/30/2026\n - Prijavljeno kao omiljeno: 2\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 74\n\nOsnovne informacije:\n - Vrsta: Platan\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Bulevar Zorana Djindjica 94\n - Posadjeno: 11/30/2024\n - Azurirano: 04/28/2025"
       },
       "id": 106
     },
@@ -5731,11 +5731,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "296",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 9\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 9\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
       },
       "id": 296
     },
@@ -5750,11 +5750,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "297",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 9\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 9\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
       },
       "id": 297
     },
@@ -5769,11 +5769,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "298",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 9\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 9\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
       },
       "id": 298
     },
@@ -5788,11 +5788,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "299",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 10\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 10\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
       },
       "id": 299
     },
@@ -5807,11 +5807,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(144, 238, 144)",
+          "color": "DarkOrange",
           "iconClass": "Circle"
         },
         "name": "300",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 1\n - Ukupan broj zalivanja: 10\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 08/28/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 0\n - Ukupan broj zalivanja: 10\n\nOsnovne informacije:\n - Vrsta: \n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: \n - Posadjeno: 01/01/1970\n - Azurirano: 06/22/2025"
       },
       "id": 300
     },
@@ -7954,11 +7954,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(34, 133, 34)",
+          "color": "rgb(56, 154, 56)",
           "iconClass": "Circle"
         },
         "name": "420",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/02/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 6\n - Ukupan broj zalivanja: 41\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/23/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/02/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 41\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/23/2025"
       },
       "id": 420
     },
@@ -7973,11 +7973,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(34, 133, 34)",
+          "color": "rgb(56, 154, 56)",
           "iconClass": "Circle"
         },
         "name": "421",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/02/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 6\n - Ukupan broj zalivanja: 42\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/23/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/02/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 42\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: Spanskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/23/2025"
       },
       "id": 421
     },
@@ -8011,11 +8011,11 @@
       },
       "properties": {
         "_umap_options": {
-          "color": "rgb(34, 133, 34)",
+          "color": "rgb(56, 154, 56)",
           "iconClass": "Circle"
         },
         "name": "422",
-        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/02/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 6\n - Ukupan broj zalivanja: 42\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/25/2025"
+        "description": "Akcija zalivanja:\n - Voda ili kisa: 09/02/2026\n - Prijavljeno kao omiljeno: 1\n - Broj zalivanja u 7 dana: 5\n - Ukupan broj zalivanja: 42\n\nOsnovne informacije:\n - Vrsta: Hakuro Nishiki\n - Stanje: Ok\n - Debljina (cm): \n - Najbliza adresa: ?panskih boraca 10\n - Posadjeno: 03/20/2024\n - Azurirano: 11/25/2025"
       },
       "id": 422
     },
